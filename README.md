@@ -8,3 +8,4 @@ Tools that work on your GitHub repos.
 and the real business impact of AI adoption - and act on it."
 4. Dev Analytics - [Swarmia](https://www.swarmia.com/pricing/) - Commercial, but free up to 9 contributors - "Build better software faster with insights that power your whole engineering organization."
 5. Dev Analytics - [LinearB](www.linearb.io) - Commercial; free tier no longer offered
+6. Dev Analytics - [Honest Cheetah](https://www.honestcheetah.com/) - helps mechanize estimations - Commercial; free during beta (27-Jan-2026)
